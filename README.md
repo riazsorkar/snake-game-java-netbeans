@@ -1,3 +1,3 @@
 "# snake-game-java-netbeans" 
 
-<img src="" width="128"/>
+<img src="https://raw.githubusercontent.com/riazsorkar/snake-game-java-netbeans/main/snake-game-java-netbeans%20Screenshot.png" width="520"/>
